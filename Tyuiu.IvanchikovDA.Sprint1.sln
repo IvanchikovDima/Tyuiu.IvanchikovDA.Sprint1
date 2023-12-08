@@ -49,11 +49,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task6", "Task6", "{6C5D69BD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IvanchikovDA.Sprint1.Task6.V4", "Tyuiu.IvanchikovDA.Sprint1.Task6.V4\Tyuiu.IvanchikovDA.Sprint1.Task6.V4.csproj", "{C4FC6962-D864-467D-B1E3-E6002A527F03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IvanchikovDA.Sprint1.Task5.V5", "Tyuiu.IvanchikovDA.Sprint1.Task5.V5\Tyuiu.IvanchikovDA.Sprint1.Task5.V5.csproj", "{4596CC09-C652-446E-8DC3-A4B1B17BC04D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IvanchikovDA.Sprint1.Task5.V6", "Tyuiu.IvanchikovDA.Sprint1.Task5.V5\Tyuiu.IvanchikovDA.Sprint1.Task5.V6.csproj", "{4596CC09-C652-446E-8DC3-A4B1B17BC04D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IvanchikovDA.Sprint1.Task5.V5.Lib", "Tyuiu.IvanchikovDA.Sprint1.Task5.V5.Lib\Tyuiu.IvanchikovDA.Sprint1.Task5.V5.Lib.csproj", "{0DA1D6D9-F54D-4675-85F6-B89C4B3B3F0D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IvanchikovDA.Sprint1.Task5.V6.Lib", "Tyuiu.IvanchikovDA.Sprint1.Task5.V5.Lib\Tyuiu.IvanchikovDA.Sprint1.Task5.V6.Lib.csproj", "{0DA1D6D9-F54D-4675-85F6-B89C4B3B3F0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IvanchikovDA.Sprint1.Task5.V5.Test", "Tyuiu.IvanchikovDA.Sprint1.Task5.V5.Test\Tyuiu.IvanchikovDA.Sprint1.Task5.V5.Test.csproj", "{67AE43C8-02F6-4D22-908C-FDBC22945E5C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IvanchikovDA.Sprint1.Task5.V6.Test", "Tyuiu.IvanchikovDA.Sprint1.Task5.V5.Test\Tyuiu.IvanchikovDA.Sprint1.Task5.V6.Test.csproj", "{67AE43C8-02F6-4D22-908C-FDBC22945E5C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IvanchikovDA.Sprint1.Task6.V4.Lib", "Tyuiu.IvanchikovDA.Sprint1.Task6.V4.Lib\Tyuiu.IvanchikovDA.Sprint1.Task6.V4.Lib.csproj", "{F60F2C37-037E-40F3-94AD-73BD93F46FB3}"
 EndProject

@@ -12,11 +12,10 @@ namespace Tyuiu.IvanchikovDA.Sprint1.Task1.Test
         public void ValidExpression()
         {
             DataService ds = new DataService();
-            const double pi = 3.14;
-            double x = 1.0;
-            double a = 2.0;
+            double a = 2;
+            double x = 1;
             
-            var res = ds.Calculate(x, a);
+            var res = ds.Calculate(a, x);
             Assert.AreEqual(0.79, res);
 
         }
