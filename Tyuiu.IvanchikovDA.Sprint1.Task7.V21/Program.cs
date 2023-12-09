@@ -32,7 +32,9 @@ namespace Tyuiu.IvanchikovDA.Sprint1.Task7.V24
             Console.WriteLine("*РЕЗУЛЬТАТ:                                                     ");
             Console.WriteLine("****************************************************************");
             Console.WriteLine("Значение функции: ");
+
             Console.ReadLine();
+
             Console.ReadKey();
         }
     }
