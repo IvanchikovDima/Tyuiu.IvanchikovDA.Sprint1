@@ -61,11 +61,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IvanchikovDA.Sprint1.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task7", "Task7", "{FB5BC8AF-0830-4D25-A31B-C9C10765295C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IvanchikovDA.Sprint1.Task7.V21", "Tyuiu.IvanchikovDA.Sprint1.Task7.V21\Tyuiu.IvanchikovDA.Sprint1.Task7.V21.csproj", "{C22E9786-0A69-46D2-900E-ADAF4F910588}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IvanchikovDA.Sprint1.Task7.V24", "Tyuiu.IvanchikovDA.Sprint1.Task7.V21\Tyuiu.IvanchikovDA.Sprint1.Task7.V24.csproj", "{C22E9786-0A69-46D2-900E-ADAF4F910588}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IvanchikovDA.Sprint1.Task7.V21.Lib", "Tyuiu.IvanchikovDA.Sprint1.Task7.V21.Lib\Tyuiu.IvanchikovDA.Sprint1.Task7.V21.Lib.csproj", "{73DC29EE-9305-4E6B-BA12-D2FD3B01BA45}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IvanchikovDA.Sprint1.Task7.V24.Lib", "Tyuiu.IvanchikovDA.Sprint1.Task7.V21.Lib\Tyuiu.IvanchikovDA.Sprint1.Task7.V24.Lib.csproj", "{73DC29EE-9305-4E6B-BA12-D2FD3B01BA45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IvanchikovDA.Sprint1.Task7.V21.Test", "Tyuiu.IvanchikovDA.Sprint1.Task7.V21.Test\Tyuiu.IvanchikovDA.Sprint1.Task7.V21.Test.csproj", "{CC91494E-D618-4B88-8FA5-216B99241EF0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.IvanchikovDA.Sprint1.Task7.V24.Test", "Tyuiu.IvanchikovDA.Sprint1.Task7.V21.Test\Tyuiu.IvanchikovDA.Sprint1.Task7.V24.Test.csproj", "{CC91494E-D618-4B88-8FA5-216B99241EF0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
